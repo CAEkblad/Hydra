@@ -1,0 +1,6 @@
+[submodule "upstream_repos/ElizaOS"]
+	path = upstream_repos/ElizaOS
+	url = https://github.com/elizaOS/eliza.git
+[submodule "upstream_repos/MoonDev"]
+	path = upstream_repos/MoonDev
+	url = https://github.com/moondevonyt/moon-dev-ai-agents-for-trading.git
