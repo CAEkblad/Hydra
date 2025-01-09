@@ -1,0 +1,15 @@
+user.name=CAEkblad
+user.email=CA.Ekblad@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/CAEkblad/Hydra.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.main.vscode-merge-base=origin/main
+submodule.upstream_repos/ElizaOS.active=true
+submodule.upstream_repos/ElizaOS.url=https://github.com/elizaOS/eliza.git
+submodule.upstream_repos/MoonDev.active=true
+submodule.upstream_repos/MoonDev.url=https://github.com/moondevonyt/moon-dev-ai-agents-for-trading.git
